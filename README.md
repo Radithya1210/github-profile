@@ -7,7 +7,7 @@
 **Passionate 15-year-old self-taught developer with 5+ years of experience building web and game projects. Exceptional ability to independently master modern web technologies and complex game mechanics, handling projects from initial concept to deployment.**
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,unity,blender,cs,supabase,mysql,git,github,gitlab,vscode,figma,xampp&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,php,unity,blender,cs,supabase,mysql,git,github,gitlab,vscode,figma,xampp&theme=dark&perline=8)](https://skillicons.dev)
 <br/>
 
 ## GitHub Stats
